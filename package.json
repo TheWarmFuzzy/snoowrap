@@ -1,5 +1,5 @@
 {
-  "name": "snoowrap",
+  "name": "snoowrap-twf",
   "version": "1.22.0",
   "license": "MIT",
   "description": "A JavaScript wrapper for the reddit API",
